@@ -1,0 +1,6 @@
+{
+  "name": "Hunza Heritage",
+  "description": "Marketplace for authentic local handicrafts, handwoven shawls, carved walnut wood, and cultural treasures from Gilgit-Baltistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
